@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jupiter</title>
+    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+    </head>
+  
+    <body>
+        <div class="navbar">
+            <p class="link">NAVBAR</p>
+        </div>
+    
+        <div class="wrapper">    
+            <h1>Jupiter</h1> 
+            <div class="maincontent">
+                <table>
+                    <tr><th><div class="mainimg"></div></th><tr>
+                    <tr>
+                        <th>                
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                Integer a volutpat tortor.
+                                Quisque convallis porttitor mauris at commodo.
+                                Aliquam nec turpis eu ex rutrum tincidunt vitae vitae lorem.
+                                Donec mauris mauris, dictum id tellus vitae, placerat iaculis mi.
+                                Cras leo est, rutrum mattis ipsum id, finibus auctor sapien.
+                                Ut sit amet orci et massa tincidunt malesuada.
+                                Sed eu ante quis ante cursus bibendum.
+                                Fusce quis arcu at eros semper mattis.
+                                Ut sed justo dignissim, volutpat augue sed, viverra ex.
+                                Donec aliquam elit orci, ac pellentesque magna ornare ac.
+                                Etiam facilisis quam dolor. Praesent at accumsan mi, tincidunt semper eros.
+                            </p>
+                        </th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
